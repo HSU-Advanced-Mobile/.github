@@ -58,9 +58,9 @@
 
 ## 👣 팀원 구성
 
-<table width="50%" align="center">
+<table width="30%" align="center">
     <tr>
-        <td align="center"><b>LEAD/FE</b></td>
+        <td align="center"><b>FE</b></td>
         <td align="center"><b>FE</b></td>
         <td align="center"><b>BE</b></td>
         <td align="center"><b>FE</b></td>
