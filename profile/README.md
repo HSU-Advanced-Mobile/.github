@@ -46,12 +46,15 @@
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### 🙌 협업
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
@@ -62,19 +65,19 @@
     <tr>
         <td align="center"><b>FE</b></td>
         <td align="center"><b>FE</b></td>
-        <td align="center"><b>BE</b></td>
         <td align="center"><b>FE</b></td>
+        <td align="center"><b>BE</b></td>
     </tr>
     <tr>
         <td align="center"><img src="https://github.com/a-neey.png" /></td>
         <td align="center"><img src="https://github.com/tpdus112.png" /></td>
-        <td align="center"><img src="https://github.com/LgE02.png"></td>
         <td align="center"><img src="https://github.com/uiuuoq.png" /></td>
+        <td align="center"><img src="https://github.com/LgE02.png"></td>
     </tr>
     <tr>
         <td align="center"><b><a href="https://github.com/a-neey">김예나</a></b></td>
         <td align="center"><b><a href="https://github.com/tpdus112.png">윤세연</a></b></td>
-        <td align="center"><b><a href="https://github.com/LgE02">이가은</a></b></td>
         <td align="center"><b><a href="https://github.com/uiuuoq.png">홍보민</a></b></td> 
+        <td align="center"><b><a href="https://github.com/LgE02">이가은</a></b></td>
     </tr>
 </table>
